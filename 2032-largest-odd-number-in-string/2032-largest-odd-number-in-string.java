@@ -1,14 +1,13 @@
 class Solution {
     public String largestOddNumber(String num) {
-       boolean ch=false;
-       if(num.charAt(num.length()-1)%2==1)
-       return num;
+       int odd=-1;
+    
        for(int i=num.length()-1;i>=0;i--){
-        if(num.charAt(i)%2==1)
-        return num.substring(0,i+1);
-        else
-        continue;
+        if((num.charAt(i)-'0')%2==1){
+      odd=i;
+      break;
        }
-       return ""; 
+       }
+       return num.substring(0,odd+1); 
     }
 }
