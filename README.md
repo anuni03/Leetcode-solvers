@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0189-rotate-array) |
+| [2032-largest-odd-number-in-string](https://github.com/anuni03/Leetcode-solvers/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,8 +37,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/anuni03/Leetcode-solvers/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/anuni03/Leetcode-solvers/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/anuni03/Leetcode-solvers/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/anuni03/Leetcode-solvers/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/anuni03/Leetcode-solvers/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
