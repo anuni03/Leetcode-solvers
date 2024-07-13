@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anuni03/Leetcode-solvers/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/anuni03/Leetcode-solvers/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/anuni03/Leetcode-solvers/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
@@ -97,5 +98,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anuni03/Leetcode-solvers/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anuni03/Leetcode-solvers/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
