@@ -1,0 +1,32 @@
+// Generate all binary strings without consecutive 1’s
+import java.io.*;
+import java.util.*;
+class GenerateStrings {
+    
+    static void generate(String str,int num){
+        if(str.length()==num){
+            System.out.print(str+" ");
+            return;
+        }
+        else if(str.charAt(str.length()-1) == '1'){
+            generate(str+'0',num);
+        }else{
+            generate(str+'0',num);
+            generate(str+'1',num);
+        }
+    }
+    
+    static void print(int num){
+        String word="";
+        word+='0';
+        generate(word,num);
+        word="1";
+        generate(word,num);
+    }
+    
+	public static void main (String[] args) {
+	    
+	     int n=3;
+	     print(n);
+	}
+}
