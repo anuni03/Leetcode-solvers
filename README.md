@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anuni03/Leetcode-solvers/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuni03/Leetcode-solvers/tree/master/0035-search-insert-position) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anuni03/Leetcode-solvers/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anuni03/Leetcode-solvers/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/anuni03/Leetcode-solvers/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anuni03/Leetcode-solvers/tree/master/0242-valid-anagram) |
