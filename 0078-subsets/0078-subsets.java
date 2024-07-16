@@ -1,15 +1,16 @@
 class Solution {
-    public void solve(int index,int[] nums,List<Integer> arr,List<List<Integer>> li){
-        li.add(new ArrayList<>(arr));
-        for(int i=index;i<nums.length;i++){
-            arr.add(nums[i]);
-            solve(i+1,nums,arr,li);
-            arr.remove(arr.size()-1);
-        }
-    }
     public List<List<Integer>> subsets(int[] nums) {
-      List<List<Integer>> li=new ArrayList<>();
-      solve(0,nums,new ArrayList<>(),li);
-      return li;
+        int n=nums.length;
+        int sub=1<<n;
+         List<List<Integer>> ans=new ArrayList<>();
+        for(int num=0;num<sub;num++){
+        List<Integer> li=new ArrayList<>();
+        for(int bit=0;bit<n;bit++){
+            if((num & (1<<bit))>0) //imp to put greater than zero not the condition (==1)
+            li.add(nums[bit]);
+        }
+        ans.add(li);
+        }
+        return ans;
     }
 }
