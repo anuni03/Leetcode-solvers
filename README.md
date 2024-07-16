@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuni03/Leetcode-solvers/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/anuni03/Leetcode-solvers/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anuni03/Leetcode-solvers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anuni03/Leetcode-solvers/tree/master/0283-move-zeroes) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuni03/Leetcode-solvers/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anuni03/Leetcode-solvers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
