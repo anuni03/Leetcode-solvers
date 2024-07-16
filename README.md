@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/anuni03/Leetcode-solvers/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuni03/Leetcode-solvers/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/anuni03/Leetcode-solvers/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/anuni03/Leetcode-solvers/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0189-rotate-array) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anuni03/Leetcode-solvers/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/anuni03/Leetcode-solvers/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/anuni03/Leetcode-solvers/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/anuni03/Leetcode-solvers/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
