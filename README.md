@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuni03/Leetcode-solvers/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/anuni03/Leetcode-solvers/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0189-rotate-array) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/anuni03/Leetcode-solvers/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anuni03/Leetcode-solvers/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anuni03/Leetcode-solvers/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuni03/Leetcode-solvers/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/anuni03/Leetcode-solvers/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/anuni03/Leetcode-solvers/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anuni03/Leetcode-solvers/tree/master/0242-valid-anagram) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuni03/Leetcode-solvers/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/anuni03/Leetcode-solvers/tree/master/0812-rotate-string) |
 ## Sorting
 |  |
