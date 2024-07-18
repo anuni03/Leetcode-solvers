@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/anuni03/Leetcode-solvers/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anuni03/Leetcode-solvers/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/anuni03/Leetcode-solvers/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/anuni03/Leetcode-solvers/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anuni03/Leetcode-solvers/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/0628-maximum-product-of-three-numbers) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuni03/Leetcode-solvers/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/anuni03/Leetcode-solvers/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/anuni03/Leetcode-solvers/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/anuni03/Leetcode-solvers/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/anuni03/Leetcode-solvers/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anuni03/Leetcode-solvers/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anuni03/Leetcode-solvers/tree/master/0451-sort-characters-by-frequency) |
