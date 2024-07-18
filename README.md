@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anuni03/Leetcode-solvers/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anuni03/Leetcode-solvers/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/0628-maximum-product-of-three-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anuni03/Leetcode-solvers/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/anuni03/Leetcode-solvers/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anuni03/Leetcode-solvers/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/0628-maximum-product-of-three-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/anuni03/Leetcode-solvers/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/2050-count-good-numbers) |
 ## Binary Search
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/anuni03/Leetcode-solvers/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anuni03/Leetcode-solvers/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anuni03/Leetcode-solvers/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
