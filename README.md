@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anuni03/Leetcode-solvers/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/0628-maximum-product-of-three-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anuni03/Leetcode-solvers/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/anuni03/Leetcode-solvers/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/2050-count-good-numbers) |
 ## Binary Search
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/anuni03/Leetcode-solvers/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anuni03/Leetcode-solvers/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/anuni03/Leetcode-solvers/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anuni03/Leetcode-solvers/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
