@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anuni03/Leetcode-solvers/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anuni03/Leetcode-solvers/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/anuni03/Leetcode-solvers/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/anuni03/Leetcode-solvers/tree/master/0203-remove-linked-list-elements) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anuni03/Leetcode-solvers/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/anuni03/Leetcode-solvers/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/anuni03/Leetcode-solvers/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anuni03/Leetcode-solvers/tree/master/0206-reverse-linked-list) |
