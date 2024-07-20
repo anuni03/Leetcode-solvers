@@ -1,36 +1,20 @@
 class Solution {
+    public String logic(String s){
+        StringBuilder str=new StringBuilder();
+        int c=0;
+        for(int i=s.length()-1;i>=0;i--){
+            if(s.charAt(i)=='#')
+            c++;
+            else if(c!=0)
+            c--;
+            else
+            str.append(s.charAt(i));
+        }
+        return str.toString();
+    }
     public boolean backspaceCompare(String s, String t) {
-        Stack<Character> stk1 = new Stack<Character>();
-        Stack<Character> stk2 = new Stack<Character>();
-        
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == '#') {
-                if (!stk1.isEmpty()) {
-                    stk1.pop();
-                }
-            } else {
-                stk1.push(s.charAt(i));
-            }
-        }
-        
-        for (int i = 0; i < t.length(); i++) {
-            if (t.charAt(i) == '#') {
-                if (!stk2.isEmpty()) {
-                    stk2.pop();
-                }
-            } else {
-                stk2.push(t.charAt(i));
-            }
-        }
-        
-        if (stk1.size() != stk2.size())
-            return false;
-        
-        while (!stk1.isEmpty()) {
-            if (stk1.pop() != stk2.pop())
-                return false;
-        }
-        
-        return true;
+        s=logic(s);
+         t=logic(t);
+        return s.equals(t);
     }
 }
