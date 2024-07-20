@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/anuni03/Leetcode-solvers/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anuni03/Leetcode-solvers/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/anuni03/Leetcode-solvers/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/anuni03/Leetcode-solvers/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/anuni03/Leetcode-solvers/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/anuni03/Leetcode-solvers/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/anuni03/Leetcode-solvers/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/anuni03/Leetcode-solvers/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/anuni03/Leetcode-solvers/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/anuni03/Leetcode-solvers/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anuni03/Leetcode-solvers/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/anuni03/Leetcode-solvers/tree/master/2032-largest-odd-number-in-string) |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/anuni03/Leetcode-solvers/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anuni03/Leetcode-solvers/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anuni03/Leetcode-solvers/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/anuni03/Leetcode-solvers/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/anuni03/Leetcode-solvers/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anuni03/Leetcode-solvers/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -187,4 +190,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anuni03/Leetcode-solvers/tree/master/0067-add-binary) |
+| [0874-backspace-string-compare](https://github.com/anuni03/Leetcode-solvers/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
