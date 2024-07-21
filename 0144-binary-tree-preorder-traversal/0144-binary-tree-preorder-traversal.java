@@ -14,21 +14,23 @@
  * }
  */
 class Solution {
+    //Interative method 
     public List<Integer> preorderTraversal(TreeNode root) {
-        
-        ArrayList<Integer> mypre=new ArrayList<>();
+        List<Integer> ans=new ArrayList<>();
         if(root==null)
-        return mypre;
-        class Traverse{
-            Traverse(TreeNode currentNode){
-                mypre.add(currentNode.val);
-                if(currentNode.left!=null)
-                 new Traverse(currentNode.left);
-                 if(currentNode.right!=null)
-                 new Traverse(currentNode.right);
-            }
-        }
-        new Traverse(root);
-        return mypre;
+        return ans;
+        Stack<TreeNode> stk=new Stack<>();
+        stk.push(root);
+        while(!stk.isEmpty()){
+               TreeNode node=stk.pop();
+              ans.add(node.val);
+                 if(node.right!=null)
+              stk.push(node.right);
+              if(node.left!=null)
+              stk.push(node.left);
+           
+
+    }
+    return ans;
     }
 }
