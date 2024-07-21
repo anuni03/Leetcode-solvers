@@ -14,17 +14,21 @@
  * }
  */
 class Solution {
-     List<Integer> li=new ArrayList<>();
-     public void postorder(TreeNode node,List<Integer> li){
-        if(node ==null)
-        return;
-        li.add(node.val);
-        postorder(node.left,li);
-        postorder(node.right,li);
-     }
     public List<Integer> preorderTraversal(TreeNode root) {
-       
-        postorder(root,li);
- return li;
+        
+        ArrayList<Integer> mypre=new ArrayList<>();
+        if(root==null)
+        return mypre;
+        class Traverse{
+            Traverse(TreeNode currentNode){
+                mypre.add(currentNode.val);
+                if(currentNode.left!=null)
+                 new Traverse(currentNode.left);
+                 if(currentNode.right!=null)
+                 new Traverse(currentNode.right);
+            }
+        }
+        new Traverse(root);
+        return mypre;
     }
 }
