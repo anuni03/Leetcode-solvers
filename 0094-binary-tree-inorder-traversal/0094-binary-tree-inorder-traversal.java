@@ -14,20 +14,13 @@
  * }
  */
 class Solution {
+    List<Integer> ans=new ArrayList<Integer>();
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> li=new ArrayList<>();
-        if(root==null)
-        return li;
-        class Tra{
-            Tra(TreeNode curr){
-                if(curr.left!=null)
-                new Tra(curr.left);
-                li.add(curr.val);
-                if(curr.right!=null)
-                new Tra(curr.right);
-            }
+        if(root!=null){
+          inorderTraversal(root.left);
+          ans.add(root.val);
+          inorderTraversal(root.right);  
         }
-        new Tra(root);
-        return li;
+        return ans;
     }
 }
