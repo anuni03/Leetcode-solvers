@@ -15,12 +15,10 @@
  */
 class Solution {
     public boolean see(TreeNode lv,TreeNode rv){
-        if(lv==null && rv==null)
-        return true;
-        if(lv==null && rv!=null ||lv!=null && rv==null)
-        return false;
-if(lv.val!=rv.val)
-return false;
+       if(lv==null || rv==null)
+       return lv==rv;
+       if(lv.val!=rv.val)
+       return false;
 return see(lv.left,rv.right)&&see(lv.right,rv.left);
 
     }
