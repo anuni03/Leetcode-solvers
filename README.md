@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anuni03/Leetcode-solvers/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuni03/Leetcode-solvers/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/anuni03/Leetcode-solvers/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/anuni03/Leetcode-solvers/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/anuni03/Leetcode-solvers/tree/master/0169-majority-element) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/anuni03/Leetcode-solvers/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anuni03/Leetcode-solvers/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/anuni03/Leetcode-solvers/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/anuni03/Leetcode-solvers/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anuni03/Leetcode-solvers/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/anuni03/Leetcode-solvers/tree/master/0169-majority-element) |
@@ -264,4 +266,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anuni03/Leetcode-solvers/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/anuni03/Leetcode-solvers/tree/master/0975-range-sum-of-bst) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anuni03/Leetcode-solvers/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
