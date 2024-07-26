@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/anuni03/Leetcode-solvers/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anuni03/Leetcode-solvers/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/0628-maximum-product-of-three-numbers) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/anuni03/Leetcode-solvers/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anuni03/Leetcode-solvers/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anuni03/Leetcode-solvers/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anuni03/Leetcode-solvers/tree/master/0496-next-greater-element-i) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/anuni03/Leetcode-solvers/tree/master/1016-subarray-sums-divisible-by-k) |
 ## String Matching
 |  |
 | ------- |
@@ -281,4 +283,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anuni03/Leetcode-solvers/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/anuni03/Leetcode-solvers/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
