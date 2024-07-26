@@ -1,17 +1,17 @@
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
-        HashMap<Integer,Integer> hm=new HashMap<>();
-        hm.put(0,1);
-        int sum=0,ans=0;
+        int[] map=new int[k];
+        map[0]=1;
+        int sum=0,c=0;
         for(int i=0;i<nums.length;i++){
-            sum=(sum+nums[i])%k;
-            if(sum<0)
-            sum+=k;
-            ans+=hm.getOrDefault(sum,0);
-            hm.put(sum,hm.getOrDefault(sum,0)+1);
-
-
+            sum+=nums[i];
+            int mod=sum%k;
+            if(mod<0){
+                mod=mod%k+k;
+            }
+            c+=map[mod];
+            map[mod]++;
         }
-        return ans;
+        return c;
     }
 }
