@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/anuni03/Leetcode-solvers/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anuni03/Leetcode-solvers/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/anuni03/Leetcode-solvers/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/0628-maximum-product-of-three-numbers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anuni03/Leetcode-solvers/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anuni03/Leetcode-solvers/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anuni03/Leetcode-solvers/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anuni03/Leetcode-solvers/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/anuni03/Leetcode-solvers/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anuni03/Leetcode-solvers/tree/master/1016-subarray-sums-divisible-by-k) |
 ## String Matching
 |  |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anuni03/Leetcode-solvers/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anuni03/Leetcode-solvers/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anuni03/Leetcode-solvers/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
