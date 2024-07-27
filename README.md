@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuni03/Leetcode-solvers/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/anuni03/Leetcode-solvers/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anuni03/Leetcode-solvers/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anuni03/Leetcode-solvers/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anuni03/Leetcode-solvers/tree/master/0078-subsets) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anuni03/Leetcode-solvers/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/anuni03/Leetcode-solvers/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/anuni03/Leetcode-solvers/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anuni03/Leetcode-solvers/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anuni03/Leetcode-solvers/tree/master/0073-set-matrix-zeroes) |
 ## Prefix Sum
 |  |
