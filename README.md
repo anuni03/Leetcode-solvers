@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuni03/Leetcode-solvers/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/anuni03/Leetcode-solvers/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/anuni03/Leetcode-solvers/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anuni03/Leetcode-solvers/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anuni03/Leetcode-solvers/tree/master/0075-sort-colors) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/anuni03/Leetcode-solvers/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anuni03/Leetcode-solvers/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuni03/Leetcode-solvers/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/anuni03/Leetcode-solvers/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/anuni03/Leetcode-solvers/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/anuni03/Leetcode-solvers/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/anuni03/Leetcode-solvers/tree/master/0151-reverse-words-in-a-string) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/anuni03/Leetcode-solvers/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/anuni03/Leetcode-solvers/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anuni03/Leetcode-solvers/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/anuni03/Leetcode-solvers/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anuni03/Leetcode-solvers/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anuni03/Leetcode-solvers/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/anuni03/Leetcode-solvers/tree/master/0141-linked-list-cycle) |
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anuni03/Leetcode-solvers/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/anuni03/Leetcode-solvers/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anuni03/Leetcode-solvers/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anuni03/Leetcode-solvers/tree/master/0169-majority-element) |
