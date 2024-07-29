@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/anuni03/Leetcode-solvers/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/anuni03/Leetcode-solvers/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/anuni03/Leetcode-solvers/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/anuni03/Leetcode-solvers/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/anuni03/Leetcode-solvers/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anuni03/Leetcode-solvers/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anuni03/Leetcode-solvers/tree/master/0078-subsets) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anuni03/Leetcode-solvers/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/anuni03/Leetcode-solvers/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuni03/Leetcode-solvers/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/anuni03/Leetcode-solvers/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/anuni03/Leetcode-solvers/tree/master/2032-largest-odd-number-in-string) |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuni03/Leetcode-solvers/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/anuni03/Leetcode-solvers/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuni03/Leetcode-solvers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuni03/Leetcode-solvers/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
