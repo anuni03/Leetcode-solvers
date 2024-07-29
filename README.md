@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/anuni03/Leetcode-solvers/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anuni03/Leetcode-solvers/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/anuni03/Leetcode-solvers/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/anuni03/Leetcode-solvers/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anuni03/Leetcode-solvers/tree/master/0496-next-greater-element-i) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/anuni03/Leetcode-solvers/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/anuni03/Leetcode-solvers/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/anuni03/Leetcode-solvers/tree/master/0289-game-of-life) |
 | [0874-backspace-string-compare](https://github.com/anuni03/Leetcode-solvers/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/anuni03/Leetcode-solvers/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anuni03/Leetcode-solvers/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/anuni03/Leetcode-solvers/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/anuni03/Leetcode-solvers/tree/master/0289-game-of-life) |
 ## Prefix Sum
 |  |
 | ------- |
