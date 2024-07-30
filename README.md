@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/anuni03/Leetcode-solvers/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anuni03/Leetcode-solvers/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/anuni03/Leetcode-solvers/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anuni03/Leetcode-solvers/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anuni03/Leetcode-solvers/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anuni03/Leetcode-solvers/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/0628-maximum-product-of-three-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anuni03/Leetcode-solvers/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/anuni03/Leetcode-solvers/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/2050-count-good-numbers) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/anuni03/Leetcode-solvers/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/anuni03/Leetcode-solvers/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anuni03/Leetcode-solvers/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1370-count-number-of-nice-subarrays) |
 ## String Matching
 |  |
 | ------- |
@@ -338,5 +341,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/anuni03/Leetcode-solvers/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/anuni03/Leetcode-solvers/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/anuni03/Leetcode-solvers/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anuni03/Leetcode-solvers/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
