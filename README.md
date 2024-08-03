@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/anuni03/Leetcode-solvers/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anuni03/Leetcode-solvers/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anuni03/Leetcode-solvers/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anuni03/Leetcode-solvers/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/anuni03/Leetcode-solvers/tree/master/2727-number-of-senior-citizens) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/anuni03/Leetcode-solvers/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anuni03/Leetcode-solvers/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## String Matching
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/anuni03/Leetcode-solvers/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anuni03/Leetcode-solvers/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/0628-maximum-product-of-three-numbers) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
