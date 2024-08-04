@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anuni03/Leetcode-solvers/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/anuni03/Leetcode-solvers/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anuni03/Leetcode-solvers/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anuni03/Leetcode-solvers/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/anuni03/Leetcode-solvers/tree/master/2727-number-of-senior-citizens) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/anuni03/Leetcode-solvers/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/anuni03/Leetcode-solvers/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/anuni03/Leetcode-solvers/tree/master/0908-middle-of-the-linked-list) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/anuni03/Leetcode-solvers/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/anuni03/Leetcode-solvers/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/anuni03/Leetcode-solvers/tree/master/1046-max-consecutive-ones-iii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/anuni03/Leetcode-solvers/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
 | ------- |
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/anuni03/Leetcode-solvers/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/0628-maximum-product-of-three-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/anuni03/Leetcode-solvers/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
