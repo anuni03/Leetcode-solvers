@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anuni03/Leetcode-solvers/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anuni03/Leetcode-solvers/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/anuni03/Leetcode-solvers/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anuni03/Leetcode-solvers/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/anuni03/Leetcode-solvers/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anuni03/Leetcode-solvers/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anuni03/Leetcode-solvers/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/anuni03/Leetcode-solvers/tree/master/2032-largest-odd-number-in-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/anuni03/Leetcode-solvers/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/anuni03/Leetcode-solvers/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anuni03/Leetcode-solvers/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/anuni03/Leetcode-solvers/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/anuni03/Leetcode-solvers/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/anuni03/Leetcode-solvers/tree/master/0451-sort-characters-by-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/anuni03/Leetcode-solvers/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Linked List
 |  |
 | ------- |
