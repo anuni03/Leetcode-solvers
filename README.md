@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/anuni03/Leetcode-solvers/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anuni03/Leetcode-solvers/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/0628-maximum-product-of-three-numbers) |
+| [0921-spiral-matrix-iii](https://github.com/anuni03/Leetcode-solvers/tree/master/0921-spiral-matrix-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/anuni03/Leetcode-solvers/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anuni03/Leetcode-solvers/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/anuni03/Leetcode-solvers/tree/master/1046-max-consecutive-ones-iii) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/anuni03/Leetcode-solvers/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/anuni03/Leetcode-solvers/tree/master/0289-game-of-life) |
 | [0874-backspace-string-compare](https://github.com/anuni03/Leetcode-solvers/tree/master/0874-backspace-string-compare) |
+| [0921-spiral-matrix-iii](https://github.com/anuni03/Leetcode-solvers/tree/master/0921-spiral-matrix-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/anuni03/Leetcode-solvers/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/anuni03/Leetcode-solvers/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/anuni03/Leetcode-solvers/tree/master/0289-game-of-life) |
+| [0921-spiral-matrix-iii](https://github.com/anuni03/Leetcode-solvers/tree/master/0921-spiral-matrix-iii) |
 ## Prefix Sum
 |  |
 | ------- |
