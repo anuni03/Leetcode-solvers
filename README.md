@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/anuni03/Leetcode-solvers/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anuni03/Leetcode-solvers/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/0628-maximum-product-of-three-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/anuni03/Leetcode-solvers/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/anuni03/Leetcode-solvers/tree/master/0921-spiral-matrix-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/anuni03/Leetcode-solvers/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anuni03/Leetcode-solvers/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/anuni03/Leetcode-solvers/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/anuni03/Leetcode-solvers/tree/master/0273-integer-to-english-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/0628-maximum-product-of-three-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/anuni03/Leetcode-solvers/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anuni03/Leetcode-solvers/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/anuni03/Leetcode-solvers/tree/master/2032-largest-odd-number-in-string) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/anuni03/Leetcode-solvers/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anuni03/Leetcode-solvers/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anuni03/Leetcode-solvers/tree/master/0560-subarray-sum-equals-k) |
+| [0870-magic-squares-in-grid](https://github.com/anuni03/Leetcode-solvers/tree/master/0870-magic-squares-in-grid) |
 | [0966-binary-subarrays-with-sum](https://github.com/anuni03/Leetcode-solvers/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anuni03/Leetcode-solvers/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1370-count-number-of-nice-subarrays) |
@@ -354,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/anuni03/Leetcode-solvers/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/anuni03/Leetcode-solvers/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/anuni03/Leetcode-solvers/tree/master/0289-game-of-life) |
+| [0870-magic-squares-in-grid](https://github.com/anuni03/Leetcode-solvers/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/anuni03/Leetcode-solvers/tree/master/0921-spiral-matrix-iii) |
 ## Prefix Sum
 |  |
