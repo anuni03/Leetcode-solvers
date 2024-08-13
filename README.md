@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuni03/Leetcode-solvers/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anuni03/Leetcode-solvers/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/anuni03/Leetcode-solvers/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/anuni03/Leetcode-solvers/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/anuni03/Leetcode-solvers/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/anuni03/Leetcode-solvers/tree/master/0055-jump-game) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuni03/Leetcode-solvers/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/anuni03/Leetcode-solvers/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/anuni03/Leetcode-solvers/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anuni03/Leetcode-solvers/tree/master/0079-word-search) |
 ## Bit Manipulation
