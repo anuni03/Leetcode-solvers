@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/anuni03/Leetcode-solvers/tree/master/0273-integer-to-english-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/0628-maximum-product-of-three-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/anuni03/Leetcode-solvers/tree/master/0870-magic-squares-in-grid) |
+| [1013-fibonacci-number](https://github.com/anuni03/Leetcode-solvers/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anuni03/Leetcode-solvers/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anuni03/Leetcode-solvers/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/anuni03/Leetcode-solvers/tree/master/2032-largest-odd-number-in-string) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/anuni03/Leetcode-solvers/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/anuni03/Leetcode-solvers/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/anuni03/Leetcode-solvers/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/anuni03/Leetcode-solvers/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/anuni03/Leetcode-solvers/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/anuni03/Leetcode-solvers/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuni03/Leetcode-solvers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuni03/Leetcode-solvers/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1013-fibonacci-number](https://github.com/anuni03/Leetcode-solvers/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -390,4 +393,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anuni03/Leetcode-solvers/tree/master/0789-kth-largest-element-in-a-stream) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anuni03/Leetcode-solvers/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
